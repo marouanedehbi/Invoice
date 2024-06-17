@@ -1,0 +1,319 @@
+﻿`id` bigint(20) UNSIGNED NOT NULL,;  `description` text NOT NULL,;  `quantity` int(11) NOT NULL,;  `amount` decimal(11,2) NOT NULL,;  `VAT` decimal(8,2) NOT NULL, 0,2;  `invoice_id` bigint(20)  ID de la facture,;  `created_at` timestamp NULL DEFAULT NULL,;  `updated_at` timestamp NULL DEFAULT NULL,;  `deleted_at` timestamp NULL DEFAULT NULL
+114;Evaluation Immobilière;1;2000.00;0.20;114;NULL;NULL;NULL
+115;"Action de la formation sur la thématique ""Evaluation Immobilière""";1;3000.00;0.20;115;NULL;NULL;NULL
+116;"Action de la formation sur la thématique ""Evaluation Immobilière""";1;2500.00;0.20;116;NULL;NULL;NULL
+117;"Action de la formation sur la thématique
+""Evaluation
+Immobilière""
+(Le 31 Janvier à l'Hôtel Palace d'ANFA)";1;3000.00;0.20;117;NULL;NULL;NULL
+118;l’estimation de la valeur vénale, d’un « Bien » immobilier, de type « Lot de terrain pour villa », sis Lotissement « ANNASR », Lot N° S7-RV5-15, Commune Ouled Saleh, Casablanca - Maroc. Objet du T.F N° 136.203/63.;1;2500.00;0.20;118;NULL;NULL;NULL
+119;Expertise Immobilière;1;1500.00;0.20;119;NULL;NULL;NULL
+120;Expertise Immobilière;1;1250.00;0.20;120;NULL;NULL;NULL
+121;Expertise Immobilière;1;1250.00;0.20;121;NULL;NULL;NULL
+122;Expertise Immobilière;1;2000.00;0.20;122;NULL;NULL;NULL
+123;Expertise Immobilière;1;2000.00;0.20;123;NULL;NULL;NULL
+124;Expertise Immobilière;1;1500.00;0.20;124;NULL;NULL;NULL
+125;Expertise Immobilière;3;1000.00;0.20;125;NULL;NULL;NULL
+126;Expertise Immobilière;1;1250.00;0.20;126;NULL;NULL;NULL
+127;Expertise Immobilière;1;1500.00;0.20;127;NULL;NULL;NULL
+128;Expertise Immobilière;1;1333.33;0.20;128;NULL;NULL;NULL
+129;Expertise Immobilière;1;1500.00;0.20;129;NULL;NULL;NULL
+130;Expertise Immobilière;1;1250.00;0.20;130;NULL;NULL;NULL
+131;Expertise Immobilière;1;1250.00;0.20;131;NULL;NULL;NULL
+132;Expertise Immobilière;1;1250.00;0.20;132;NULL;NULL;NULL
+133;Expertise Immobilière;1;1250.00;0.20;133;NULL;NULL;NULL
+134;Expertise Immobilière;1;1250.00;0.20;134;NULL;NULL;NULL
+135;Expertise Immobilière;1;1500.00;0.20;135;NULL;NULL;NULL
+136;Expertise Immobilière;1;1500.00;0.20;136;NULL;NULL;NULL
+137;Expertise Immobilière;1;1250.00;0.20;137;NULL;NULL;NULL
+138;Expertise Immobilière;1;1500.00;0.20;138;NULL;NULL;NULL
+139;Expertise Immobilière;1;1250.00;0.20;139;NULL;NULL;NULL
+140;Expertise Immobilière;1;1250.00;0.20;140;NULL;NULL;NULL
+141;Expertise Immobilière;1;1250.00;0.20;141;NULL;NULL;NULL
+142;Expertise Immobilière;1;1250.00;0.20;142;NULL;NULL;NULL
+143;"Action de la formation sur la thématique ""Evaluation Immobilière""";1;3000.00;0.20;143;NULL;NULL;NULL
+144;Expertise Immobilière;1;1666.67;0.20;144;NULL;NULL;NULL
+145;Expertise Immobilière;1;1250.00;0.20;145;NULL;NULL;NULL
+146;Expertise Immobilière;1;1500.00;0.20;146;NULL;NULL;NULL
+147;Expertise Immobilière;1;1250.00;0.20;147;NULL;NULL;NULL
+148;Expertise Immobilière;1;1250.00;0.20;148;NULL;NULL;NULL
+149;Expertise Immobilière;1;1250.00;0.20;149;NULL;NULL;NULL
+150;Expertise Immobilière;1;2000.00;0.20;150;NULL;NULL;NULL
+151;Expertise Immobilière;1;4500.00;0.20;151;NULL;NULL;NULL
+152;Expertise Immobilière;1;2000.00;0.20;152;NULL;NULL;NULL
+153;"Expertise immobilière d’un Bien immobilier, de type « Villa », sis Rue 31, N°29, Quartier KRIMATE, Arrondissement Ain Chock,
+Casablanca - Maroc, objet du T.F N°41.486/C.";1;3333.33;0.20;153;NULL;NULL;NULL
+154;"Expertise Immobilière , sis Lot N°317,
+Lotissement LINA, Route 1029, Zone Industrielle Sidi Maarouf, Casablanca Maroc, objet du T.F N°1544/47.";1;4500.00;0.20;154;NULL;NULL;NULL
+155;"Evaluatio immobilière, sis sis Rue Idriss Al Mohammedi, Lot N°06, Arrondissement Anfa,
+Casablanca - Maroc, objet du TF N° 44.749/01.";1;4500.00;0.20;155;NULL;NULL;NULL
+156;Expertise immobilière de deux commerces sis 14, Rue Yatrib, Mers Sultan, Commune Sidi Belyout, Casablanca - Maroc, objet du T.F N°2.841/46. et T.F N°2.842/46;2;1750.00;0.20;156;NULL;NULL;NULL
+157;"Expertise  de la valeur vénale
+des constructions d’un « Bien » immobilier, de type « Unité industrielle », sis PARC INDUSTRIEL D’OULED
+SALEH, Lot N°84, Province de Nouaceur, Commune d’Ouled Saleh, Casablanca-Maroc, objet du T.F.M
+N°4.678/63.";1;3000.00;0.20;157;NULL;NULL;NULL
+158;Expertise Immobilière sis Boulevard Abdelhadi Boutaleb, Lot N°02, Arrondissement Hay Hassani, Casablanca- Maroc. Objet du TF N°19.063/64.;1;2000.00;0.20;158;NULL;NULL;NULL
+159;Expertise Immobilière;1;1500.00;0.20;159;NULL;NULL;NULL
+160;"Expertise Immobilière de la valeur vénale, de trois  «Bien» immobilier, de type « Plateau bureau
+», sis Boulevard Mohamed V, Immeuble N°355, 10ème étage, Préfecture d'Aïn Sebaâ-Hay Mohammadi,
+Casablanca - Maroc. Objet du T.F N°28.837/32, T. N° 28.838/32 et T.F N°28.839/32";3;2500.00;0.20;160;NULL;NULL;NULL
+161;Expertise  immobilizer de la valeur vénale, d’un bien immobilier de type « Unité industrielle », sis RS N°120, Route Sebt Gzoula, Km 5, Safi- Maroc, objet du T.F N°24.497/23.;1;3500.00;0.20;161;NULL;NULL;NULL
+162;Expertise immobilière de la valeur vénale, d’un «Bien» immobilier, de type « Lot de terrain pour villa », sis Lotissement « Almaz II », Lot N°39, Rocade Sud-Ouest, Province de Nouaceur, Commune Oulad Azzouz, Casablanca - Maroc. Objet du T.F N° 184.858/63.;1;1500.00;0.20;162;NULL;NULL;NULL
+163;Expertise Immobilière;1;1250.00;0.20;163;NULL;NULL;NULL
+164;Expertise Immobilière;1;1250.00;0.20;164;NULL;NULL;NULL
+165;"Expertise Immobilière de deux comemrces sis, Boulevard Mohamed VI, Résidence « Fath Zhar », Immeuble N°16,
+Route de Mediouna, Casablanca - Maroc, objet du T.F N°692/48 et T.F N°693/48";2;1250.00;0.20;165;NULL;NULL;NULL
+166;Expertise Immoblière sis, de type « Plateau bureau », sis 20, Rue n°11, Résidence « Smail » Bureau N°7, Rez-De-Chaussée, Quartier de L’Hermitage, Préfecture Derb Sultan Al Fida, Casablanca – Maroc, objet du T.F N°14.807/34.;1;2000.00;0.20;166;NULL;NULL;NULL
+167;Expertise Immobilière  d’un « Bien » immobilier, de type « Villa », sis Angle Rue Oulad Fares & Rue Taghjijt, Villa N°01, Quartier Souissi, Arrondissement Agdal-Ryad, Rabat – Maroc. Objet du T.F N° 23.890/R.;1;3000.00;0.20;167;NULL;NULL;NULL
+168;"Expertise Immobilière  d’un « Bien » immobilier, de type « Appt », sis Kalaat Al Mansouria, 
+Immeuble Laayoune 1, 
+RDC,
+Province de Benslimane
+El Mansouria
+Maroc.. Objet du T.F N° 19.722/25";1;2500.00;0.20;168;NULL;NULL;NULL
+169;"Expertise Immobilière pour la valeur vénale, d’un « Bien » immobilier, de type « Riad »  sis
+Rue Dar Alglaoui, Derb Alkafta N°03, Quartier Bab Dokala, Marrakech - Maroc. Objet du T.F N° 35.179/M.
+
+Evalaution des travaux de rénovation du Riad objet du T.F N°35.179/M.";1;8793.33;0.20;169;NULL;NULL;NULL
+170;Expertise d’un « Bien » immobilier, de type « Terrain », sis Douar Oulad Ahmed Benbrahim, Province El Kelaa des Sraghna, Marrakech- Maroc. Objet du TF N°1.123/72;1;6500.00;0.20;170;NULL;NULL;NULL
+171;Expertise Immoblière sis, de type «Bureau », sis 131, Bd d'Anfa, Appt N°5B, 5ème étage, Arrondissement Sidi Belyout, Prefecture d'Anfa, Casablanca – Maroc, objet du T.F N°44.327/01.;1;2500.00;0.20;171;NULL;NULL;NULL
+172;"Expertise de la valeur vénale, d’un «
+Bien » immobilier, de type « Villa », sis Rue N°05, Lot Saloma 2, N°113, Préfecture d'Aïn Sebaâ-Hay  Mohammadi, Casablanca – Maroc. Objet du T.F N° 134.046/12.";1;3000.00;0.20;172;NULL;NULL;NULL
+173;"Expertise Immioblière de la valeur vénale, d’un actif immobilier, de type « Unité », sis Commune de Had Soualem,
+Province de Settat, Douar Lakhlaif, Région de Casablanca-Settat- Maroc, objet du TF N°38.902/53.";1;5000.00;0.20;173;NULL;NULL;NULL
+174;Expertise Immobilière;1;3333.33;0.20;174;NULL;NULL;NULL
+175;Expertise Immobilière;1;2000.00;0.20;175;NULL;NULL;NULL
+176;Expertise Immobilière d’un actif immobilier, de type « Unité Industrielle », sis Parc Industriel et Technologique « LOGINTEK », Commune Sidi El Aidi, Settat- Maroc, objet du T.F.M N°1.400/T.;1;7000.00;0.20;176;NULL;NULL;NULL
+177;Expertise Immobilière;1;1333.33;0.20;177;NULL;NULL;NULL
+178;Expertise Immobilière;1;1333.33;0.20;178;NULL;NULL;NULL
+179;Expertise Immobilière;1;1333.33;0.20;179;NULL;NULL;NULL
+180;Expertise Immobilière;1;1250.00;0.20;180;NULL;NULL;NULL
+181;Expertise Immobilière;1;1000.00;0.20;181;NULL;NULL;NULL
+182;Expertise Immobilière;1;1000.00;0.20;182;NULL;NULL;NULL
+183;Expertise Immobilière;1;1250.00;0.20;183;NULL;NULL;NULL
+184;Expertise Immobilière;1;1250.00;0.20;184;NULL;NULL;NULL
+185;Expertise Immobilière;1;1333.33;0.20;185;NULL;NULL;NULL
+186;Expertise Immobilière;1;1166.67;0.20;186;NULL;NULL;NULL
+187;Expertise Immobilière;1;1333.33;0.20;187;NULL;NULL;NULL
+188;Expertise Immobilière;1;1333.33;0.20;188;NULL;NULL;NULL
+189;Expertise Immobilière;1;1500.00;0.20;189;NULL;NULL;NULL
+190;Expertise Immobilière;1;1333.33;0.20;190;NULL;NULL;NULL
+191;Expertise Immobilière;1;1333.33;0.20;191;NULL;NULL;NULL
+192;Expertise Immobilière;1;1000.00;0.20;192;NULL;NULL;NULL
+193;Expertise Immobilière;1;1000.00;0.20;193;NULL;NULL;NULL
+194;Expertise Immobilière;1;1333.33;0.20;194;NULL;NULL;NULL
+195;"Action de formation sur la thématique ""Evaluation Immobilière"" le 11 Mai 2023";1;1500.00;0.20;195;NULL;NULL;NULL
+196;"Action de formation sur la thématique ""Evaluation Immobilière"" le 11 Mai 2023";1;1500.00;0.20;196;NULL;NULL;NULL
+197;"Action de formation sur la thématique ""Evaluation Immobilière"" le 11 Mai 2023";1;1500.00;0.20;197;NULL;NULL;NULL
+198;"Action de formation sur la thématique ""Evaluation Immobilière"" le 11 Mai 2023";1;1500.00;0.20;198;NULL;NULL;NULL
+199;"Expertise Immiobilière sis Boulevard Sfax, Zone industrielle Bernoussi, Casablanca-
+Maroc. Objet du T.F. N°103.176/C.";1;6500.00;0.20;199;NULL;NULL;NULL
+200;"Evaluation Immobilière, sis Angle rue Tata et rue Mâarakat Ohoud, Place 16 Novembre, Arrondissement Anfa, Casablanca - Maroc, objet des T.F N°53.540/01 & 53.541/01.
+
+Evalaution Immobilière, sis 197, Boulevard Zerktouni, Quartier Maârif, Arrondissement Anfa, Casablanca - Maroc, objet du T.F N°75.944/01.";2;2800.00;0.20;200;NULL;NULL;NULL
+201;"Expertise Immobilière d’un « Bien » immobilier, de type « Appartement », sis Rue Idriss I, Résidence « HOUDA »,
+3ème étage, Appartement N°06, Quartier Hamria, Meknès - Maroc, objet du T.F N° 123.779/05.";1;2000.00;0.20;201;NULL;NULL;NULL
+202;"Expertise  immobilière sis Villa N°102, Ville verte de Bouskoura, Province de Nouaceur, Casablanca –
+Maroc. Objet du T.F N° 40.251/63.
+immobilier, de type « Villa », sis Villa";1;2500.00;0.20;202;NULL;NULL;NULL
+203;Expertise Immobilière;1;1500.00;0.20;203;NULL;NULL;NULL
+204;"Expertise Immobilière ,situé à Rue 100 (exONE), Lotissement « Soufiane », N°84, Quartier Sidi
+Maârouf, Arrondissement Ain Chock, Casablanca - Maroc, objet du T.F N°61.087/47.";1;2500.00;0.20;204;NULL;NULL;NULL
+205;Evaluation Immobilière;1;13750.00;0.20;205;NULL;NULL;NULL
+206;Expertise Immobilière d’un bien immobilier de type « Commerce », situé à 249, Boulevard Ziraoui, Arrondissement Anfa, Casablanca - Maroc, objet du T.F N°122.529/01.;1;2500.00;0.20;206;NULL;NULL;NULL
+207;"Expertise Immobilière d’un « Bien » immobilier, de type « Villa », sis Lotissement « YASMINA », Villa N°211, Mohammedia – Maroc. Objet du T.F
+N° 668/26.";1;2500.00;0.20;207;NULL;NULL;NULL
+208;Expertise Immobilière;3;2500.00;0.20;208;NULL;NULL;NULL
+209;"Estimation de la valeur vénale
+d’un « Bien » immobilier, de type « Lot de Terrain pour Crèche et Maternelle », sis Lotissement « Anfa
+Mohammedia II », Lot N°36, Hay El Alia, Mohammedia - Maroc, objet du T.F N° 76.218/26.";1;2500.00;0.20;209;NULL;NULL;NULL
+210;Expertise Immobilière;1;1500.00;0.20;210;NULL;NULL;NULL
+211;Expertise Immobilière;1;1666.67;0.20;211;NULL;NULL;NULL
+212;Expertise Immobilière pour estimation de la valeur vénale d’un « Bien » immobilier, de type « Terrain », et validation du montage de l’opération immobilière, sis Lot n° 142 Angle Avenue Mohamed Diouri & Rue Mohamed El Aamraoui -Kenitra – Maroc, Objet du TF N°30.861/R.;1;9500.00;0.20;212;NULL;NULL;NULL
+213;Expertise Immobilière;1;1333.33;0.20;213;NULL;NULL;NULL
+214;Expertise Immobilière;1;1333.33;0.20;214;NULL;NULL;NULL
+215;Expertise Immobilière;1;1333.33;0.20;215;NULL;NULL;NULL
+216;Expertise Immobilière;1;1000.00;0.20;216;NULL;NULL;NULL
+217;Expertise Immobilière;1;1000.00;0.20;217;NULL;NULL;NULL
+218;Expertise Immobilière;1;1666.67;0.20;218;NULL;NULL;NULL
+219;Expertise Immobilière;1;2000.00;0.20;219;NULL;NULL;NULL
+220;Expertise Immobilière;1;1666.67;0.20;220;NULL;NULL;NULL
+221;Expertise Immobilière;1;1000.00;0.20;221;NULL;NULL;NULL
+222;Expertise Immobilière;1;2333.33;0.20;222;NULL;NULL;NULL
+223;Expertise Immobilière;1;800.00;0.20;223;NULL;NULL;NULL
+224;Expertise Immobilière;1;1333.33;0.20;224;NULL;NULL;NULL
+225;Expertise Immobilière;1;1200.00;0.20;225;NULL;NULL;NULL
+226;Expertise Immobilière;1;1333.33;0.20;226;NULL;NULL;NULL
+227;Expertise Immobilière;1;1000.00;0.20;227;NULL;NULL;NULL
+228;Expertise Immobilière;1;1333.33;0.20;228;NULL;NULL;NULL
+229;Expertise Immobilière;1;1000.00;0.20;229;NULL;NULL;NULL
+230;Expertise Immobilière;1;1200.00;0.20;230;NULL;NULL;NULL
+231;Expertise Immobilière;1;1466.67;0.20;231;NULL;NULL;NULL
+232;Expertise Immobilière;1;1000.00;0.20;232;NULL;NULL;NULL
+233;Expertise Immobilière;1;1333.33;0.20;233;NULL;NULL;NULL
+234;Expertise Immobilière;1;1333.33;0.20;234;NULL;NULL;NULL
+235;Expertise Immobilière;1;1000.00;0.20;235;NULL;NULL;NULL
+236;Expertise Immobilière;1;1333.33;0.20;236;NULL;NULL;NULL
+237;Expertise Immobilière;1;1666.67;0.20;237;NULL;NULL;NULL
+238;Expertise Immobilière;1;1333.33;0.20;238;NULL;NULL;NULL
+239;Expertise Immobilière;1;1666.67;0.20;239;NULL;NULL;NULL
+240;Expertise Immobilière;1;2533.33;0.20;240;NULL;NULL;NULL
+241;Expertise Immobilière;1;2500.00;0.20;241;NULL;NULL;NULL
+242;"Formation : Ingénierie Financière pour FIN 
+Formation : Stratégie Financière
+Formation : Stratégie Financière - CCA";1;24000.00;0.20;242;NULL;NULL;NULL
+243;Expertise Immobilière;1;2500.00;0.20;243;NULL;NULL;NULL
+244;Expertise Immoblière  d’un « Bien » immobilier, de type « Appartement », sis Al Miaraj Garden, Immeuble C, RDC, Appartement N°3002, Californie, Arrondissement Ain Chock, Casablanca - Maroc, objet du T.F N° 81.530/47.;1;2000.00;0.20;244;NULL;NULL;NULL
+245;Expertise Immobilière;1;2083.33;0.20;245;NULL;NULL;NULL
+246;Expertise Immobilière;1;2500.00;0.20;246;NULL;NULL;NULL
+247;Expertise Immobilière;1;2500.00;0.20;247;NULL;NULL;NULL
+248;Evaluation et Analyse du Programme d’Investissement du Projet et son Chiffres d'affaires objet des TF N° : 61.194/58 & 61.195/58;1;4500.00;0.20;248;NULL;NULL;NULL
+249;"Expertise du bien ayant le T.F N° 72/40953 consistant en un
+Terrain Agricole de Superficie de 4,86 Hectares sis Benguerir
+relatif au dossier de financement de la société SODIPOL.";1;5800.00;0.20;249;NULL;NULL;NULL
+250;Expertise Immobilière  d’un « Bien » immobilier, de type « Plateau bureau », sis Mohammed 5 Offices Center, Immeuble « B », Bureau N° 408, 4ème étage, Préfecture d'Aïn Sebaâ-Hay Mohammadi, Casablanca - Maroc. Objet du T.F N°77.783/45.;1;2500.00;0.20;250;NULL;NULL;NULL
+251;Simulations d'entretiens d'embauche des étudiants de MASTER 2 FINANCE et CCA;6;500.00;0.20;251;NULL;NULL;NULL
+252;Expertise Immobilière;1;2500.00;0.20;252;NULL;NULL;NULL
+253;"Expertise Immolière l’estimation de la valeur vénale, de « 07 Biens »
+immobiliers, de type « Appartement », sis Rue Ahmed El Kadmiri, Résidence « JACINTH », Appartement
+N°A14 & N°A16, 1er étage, Appartement N°A28, 2ème étage, Appartement N°A31 & N°A37, 3ème étage,
+Appartement N°A44 & N°A47, 4ème étage, Quartier Val Fleuri, Casablanca - Maroc, objets des T.F N°
+20.502/71, N° 20.504/71, N° 20.516/71, N° 20.519/71, N° 20.525/71, N° 20.532/71 & N° 20.535/71.";7;1200.00;0.20;253;NULL;NULL;NULL
+254;Expertise Immobilière;1;3000.00;0.20;254;NULL;NULL;NULL
+255;Expertise Immobilière;1;1500.00;0.20;255;NULL;NULL;NULL
+256;Expertise Immobilière de type « Lot de Terrain pour villa », sis Propriété « FEDDANE KHADEM », Commune Bouskoura Douar Ouled Malek Hamri, Province de Nouaceur, Casablanca - Maroc., objet du T.F N° 36.325/63.;1;2500.00;0.20;256;NULL;NULL;NULL
+257;Expertise immobilière des « Biens » immobiliers, de type « Lots de terrains pour villa », sis Lotissement « Atlas Golf Resort », Tranche 06, Lot N°97 & N°98, Arrondissement Annakhil, Marrakech - Maroc. Objets des T.F N° 54.844/43 & N° 54.845/43.;1;4800.00;0.20;257;NULL;NULL;NULL
+258;"Expertise de la valeur vénale du foncier objet du TF N°10.675/D2
+
+Analyse et Validation du Programme d’Investissement du Projet et son Chiffres d'affaires objet du TF N°10.675/D2";1;9500.00;0.20;258;NULL;NULL;NULL
+259;Expertise de la valeur vénale de l'unité objet du TF N°26133/33;1;6000.00;0.20;259;NULL;NULL;NULL
+260;Expertise Immobilière;1;1666.67;0.20;260;NULL;NULL;NULL
+261;"Expertise Immobilière de type ""commerce"" , objet du TF: 69.048/64";1;2083.33;0.20;261;NULL;NULL;NULL
+262;"Expertise Immobilière de la valeur vénale
+d’un « Bien » immobilier, de type « Terrain », Sis Accès Mediouna Achakkar, Tanger - Maroc. Objet du TF
+N°161.621/06.";1;6500.00;0.20;262;NULL;NULL;NULL
+263;Expertise_ Immobilière de la valeur vénale, d’un bien immobilier de type « Commerce », sis Angle Rue Tadarouj & Rue Abou Zarik, Quartier l’Oasis, Arrondissement Hay Hassani, Casablanca - Maroc, objet du T.F N° 37.302/64.;1;2083.33;0.20;263;NULL;NULL;NULL
+264;"Expertise_Immobilière de la valeur vénale d'un ""Bien"" immobilier, de type ""Appartement"", 548, Angle Avenue 2 mars &Boulevard Modibo Keita,
+Résidence « Sounna »,
+Appartement N°18, 4èmeétage,";1;1666.67;0.20;264;NULL;NULL;NULL
+265;Expertise Immobilière;1;1250.00;0.20;265;NULL;NULL;NULL
+266;"Expertise immobilière sis à Commune de Had Soualem, Province de Settat, Douar
+Ouled Jamaa, Région du Grand Casablanca - Maroc. Objet du TF N°16.855/53";1;3000.00;0.20;266;NULL;NULL;NULL
+267;Expertise d'une unité du TF N° 4157/47, sis Bouskoura, Prefecture de Casablanca .;1;5500.00;0.20;267;NULL;NULL;NULL
+268;Expertise immobilière de la valeur vénele d'une villa sis, Résidence Al Boustane, à la Commune de Dar Bouazza, Province de Nouaceur, Casablanca - Maroc. Objet du TF N°1.996/63;1;1666.67;0.20;268;NULL;NULL;NULL
+269;Expertise Immobilière de deux actifs immobiliers aynt les T,F N° 4709/46 et 4708/46 sis Casablanca.;1;5000.00;0.20;269;NULL;NULL;NULL
+270;"Expertise des Bien de type appartement, sis LARACHE,  ayant les T.F  :
+N°37.164/36,
+N° 37.165/36,
+N°37.166/36,
+N°37.167/36,
+N°37.168/36,
+N°37.169/36,
+N°37.170/36,
+N°37.171/36,
+N°37.172/36,
+N°37.173/36";1;7500.00;0.20;270;NULL;NULL;NULL
+271;Expertise Immobilière;1;2500.00;0.20;271;NULL;NULL;NULL
+272;Expertise Immobilière;1;3000.00;0.20;272;NULL;NULL;NULL
+273;Expertise Immobilière;1;2500.00;0.20;273;NULL;NULL;NULL
+274;Expertise Immobilière;1;1250.00;0.20;274;NULL;NULL;NULL
+275;Expertise Immobilière;1;2750.00;0.20;275;NULL;NULL;NULL
+276;Expertise Immobilière;1;1250.00;0.20;276;NULL;NULL;NULL
+277;Expertise Immobilière;1;1800.00;0.20;277;NULL;NULL;NULL
+278;Expertise Immobilière;1;1800.00;0.20;278;NULL;NULL;NULL
+279;Expertise Immobilière;1;1250.00;0.20;279;NULL;NULL;NULL
+280;Expertise Immobilière;1;1500.00;0.20;280;NULL;NULL;NULL
+281;Expertise Immobilière;1;1200.00;0.20;281;NULL;NULL;NULL
+282;Expertise Immobilière;1;1250.00;0.20;282;NULL;NULL;NULL
+283;Expertise Immobilière;1;1200.00;0.20;283;NULL;NULL;NULL
+284;Expertise Immobilière;1;1500.00;0.20;284;NULL;NULL;NULL
+285;Expertise Immobilière;1;1500.00;0.20;285;NULL;NULL;NULL
+286;Expertise Immobilière;1;1500.00;0.20;286;NULL;NULL;NULL
+287;Expertise Immobilière;1;1800.00;0.20;287;NULL;NULL;NULL
+288;Expertise Immobilière;1;1800.00;0.20;288;NULL;NULL;NULL
+289;Expertise Immobilière;1;1800.00;0.20;289;NULL;NULL;NULL
+290;Expertise Immobilière;1;1500.00;0.20;290;NULL;NULL;NULL
+291;Expertise Immobilière;1;2700.00;0.20;291;NULL;NULL;NULL
+292;Expertise Immobilière;1;1916.67;0.20;292;NULL;NULL;NULL
+293;"Evaluation d’un projet immobilier, de
+type « 3SS R+9 », sis 14, Rue al Farabi, Tanger - Maroc, objet de TF N°549/G.";1;4750.00;0.20;293;NULL;NULL;NULL
+294;"Evaluation d’un projet immobilier, de
+type « 3SS R+9 », sis 14, Rue al Farabi, Tanger - Maroc, objet de TF N°549/G.";1;2375.00;0.20;294;NULL;NULL;NULL
+295;"Evaluation d’un projet immobilier, de
+type « 3SS R+9 », sis 14, Rue al Farabi, Tanger - Maroc, objet de TF N°549/G.";1;2375.00;0.20;295;NULL;NULL;NULL
+296;Expertise Immobilière d’un bien immobilier de type « Commerce », sis Boulevard de Bordeaux, Rue Argana, Résidence « ARGANA », N°12, Arrondissement Anfa, Casablanca - Maroc, objet du T.F N°6.937/46.;1;2500.00;0.20;296;NULL;NULL;NULL
+297;Expertise de la valeur vénale, d’un actif immobilier, de type « Terrain », sis Boulevard Mohamed Al Khallouqi, Avenue Catalunia, Laâyoune - Maroc, Objet de TF N°8.678/17.;1;7500.00;0.20;297;NULL;NULL;NULL
+298;Expertise immobilièrede la valeur vénale, d’un «Bien» immobilier, de type « Appartement », sis 16 Bis, Rue Oued Tensift, Appartement N°07, 4ème étage, Arrondissement Anfa, Casablanca – Maroc. Objet du T.F N° 47.396/C.;1;2500.00;0.20;298;NULL;NULL;NULL
+299;"-/Expertsie de la valeur venale de l'actif immobilier objet du T.F N° 6228/C
+-/Analyse et Validation du Programme d’Investissement du Projet et son Cciffres d'affaires objet du T.F N°6228/C
+";1;9500.00;0.20;299;NULL;NULL;NULL
+300;Evaluation d’un projet immobilier, de type immeuble en « SS R+5 », sis Rue N°118, Val Fleury, Kenitra - Maroc, objet de TF N°3.398/H & N°5.991/R.;1;8000.00;0.20;300;NULL;NULL;NULL
+301;"Expertise Immobilière de la valeur vénale
+d’un « Bien » immobilier, de type « Unité industrielle », sis Route Rabat-Kenitra, Arrondissement de Bab
+Lamrissa, Salé - Maroc. Objet du TF N°1.626/20.";1;4000.00;0.20;301;NULL;NULL;NULL
+302;Expertise immobilière;1;5000.00;0.20;302;NULL;NULL;NULL
+303;Expertise de la valeur vénale d’un « Bien » immobilier, de type « Unité industrielle », sis Boulevard Sfax, Zone Industrielle Sidi Bernoussi, Casablanca - Maroc. Objet du TF N°251/49.;1;3000.00;0.20;303;NULL;NULL;NULL
+304;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Unité industrielle », sis Route de Zenata, Zone Industrielle Sidi Bernoussi, Casablanca - Maroc. Objet du TF N°35.105/49.;1;3000.00;0.20;304;NULL;NULL;NULL
+305;Expertise immobilière de la valeur vénale, d’un « Bien » immobilier, de type « Lot de terrain pour villa », sis Lotissement « NAKHLA », Lot N°97, Commune de Dar Bouazza, Province de Nouaceur, Casablanca - Maroc. Objet du T.F N° 183.976/63.;1;3000.00;0.20;305;NULL;NULL;NULL
+306;Expertise Immobilière de la valeur vénale, d’un « Bien » immobilier, de type « Appartement », sis Résidence du Golf, Immeuble B1, Appartement N°04, RDC, Province de Benslimane, Bouznika - Maroc. Objet du T.F N°24.099/25 & 24.175/25.;1;2500.00;0.20;306;NULL;NULL;NULL
+307;Expertise Immobilière;1;2200.00;0.20;307;NULL;NULL;NULL
+308;Expertise Immobilière;1;1666.67;0.20;308;NULL;NULL;NULL
+309;Expertise immobilière d’un « Bien » immobilier, de type « Commerce », sis Angle Rue Abou Al Hanaâ & Rue Tanane Khadiri, Ferme Bretonne, Quartier Oasis, Arrondissement Hay Hassani, Casablanca - Maroc, objet du T.F N°50.213/64.;1;2083.33;0.20;309;NULL;NULL;NULL
+310;Expertise Immobilière;1;1666.67;0.20;310;NULL;NULL;NULL
+311;"Evaluation immobilière des Bureau ayant les TF N° 25.539/71, 25.538/71, 25.537/71 sis Casablanca
+
+Evaluation immobilière des Commerces ayant les TF N° 25.536/71; 25.535/71 sis Casablanca";1;6600.00;0.20;311;NULL;NULL;NULL
+312;Evaluation immobilière de deux terrains ayant les T.F N° 57.563/23 & 53.717/23 sis Zaouiate Sidi RADI Province De Oualidia.;1;7650.00;0.20;312;NULL;NULL;NULL
+313;Expertise immobilière du terrain sis Préfecture de Ben Msik Sidi Othman, Commune Lahraouiyine, Casablanca- Maroc, objet de TF N°169.910/12.;1;4166.67;0.20;313;NULL;NULL;NULL
+314;"Expertise Immobilière d'un ""Bien immobilier"" de type appartement, sis Bd Stendhal & Georges Sand, Résidence Benber, Immeuble C,3ème étage appt n° 109. Maarif, Casablanca, Maroc, objet du TF N° 77.394/01";1;2200.00;0.20;314;NULL;NULL;NULL
+315;Expertise Immobilière pour la valeur vénale d’un « Bien » immobilier, de type « Appartement », sis 37, Rue Abderrahmane Sahraoui, Appartement N°17, 2ème étage, Arrondissement Anfa, Casablanca - Maroc, objet du T.F N° 55.864/01.;1;2083.33;0.20;315;NULL;NULL;NULL
+316;Expertise Immobilière de la valeur vénale, d’un « Bien » immobilier, de type « Villa » en cours de finition sur 01 étage, sis Lotissement Dar El Aarass, Lot N°37, Commune de Harhoura, Préfecture de Skhirat-Témara, Témara - Maroc, objet du TF N° 63.991/78.;1;2083.33;0.20;316;NULL;NULL;NULL
+317;Evaluation immobilière de la valeur vénale du terrain objet de l’opération immobilière de type « Immeuble (SS R+4) » et la validation du montage de l’opération immobilière et son Chiffre d’affaires, sis Lot N°2159, Lotissement « Haddada », Route de Mehdia Kénitra - Maroc, objet du TF N° 109.620/13.;1;6000.00;0.20;317;NULL;NULL;NULL
+318;Expertise Immobilière  de la valeur vénale d’un « Bien » immobilier, de type « Immeuble (R+4) », sis Lot N°1314, Lotissement « Le Vallon », Kénitra - Maroc. Objet du TF N° 165.472/13.;1;6000.00;0.20;318;NULL;NULL;NULL
+319;Expertise Immobilière de la valeur vénale de « 02 Biens » immobiliers, de type « Commerce », sis P3002, Lotissement « ASSAFA », Mohammedia - Maroc, objet du T.F N°133.037/26 & N°133.038/26.;1;4166.67;0.20;319;NULL;NULL;NULL
+320;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Terrain », sis Route de Khouribga, Lotissement « BERKOR II » Lot N°16 & N°17, Berrechid - Maroc. Objet du TF N°152.587/53 & N°152.588/53.;1;8000.00;0.20;320;NULL;NULL;NULL
+321;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Terrain », sis Tiznit - Maroc. Objet du TF N°29.332/31.;1;9225.00;0.20;321;NULL;NULL;NULL
+322;Expertsie Immobilière de la valeur vénale de « 04 Biens » immobiliers, de type « Appartement » sis Rue N°24, Lotissement « AL FADL »,;1;10000.00;0.20;322;NULL;NULL;NULL
+323;Expertise Immobilière d'état d'avancement  d’un « Bien » immobilier, de type « Villa » sur trois niveau, objet du TF N° 201.081/07 sis Lotissement la Rose, Lot N°10, Fès - Maroc.;1;6000.00;0.20;323;NULL;NULL;NULL
+324;Evaluation immobilière de la valeur vénale d’un « Bien » immobilier, de type « Terrain », sis Lotissement « BERKOR », Lot N°96, Berrechid - Maroc. Objet du TF N°94.864/53.;1;8000.00;0.20;324;NULL;NULL;NULL
+325;Expertise Immolière d'état d’avancement de la tranche 2 du projet objet du T.FN° 4.158/53, sis « Marina Sidi Rahal », Commune urbaine Sidi Rahal, Province de Berrechid, Casablanca - Maroc.;1;12000.00;0.20;325;NULL;NULL;NULL
+326;Expertsie Immobilière de la valeur vénale de « 04 Biens » immobiliers, de type « Commerce » sis Rue N°24, Lotissement « AL FADL »;1;14000.00;0.20;326;NULL;NULL;NULL
+327;Expertise Immobilière de la valeur vénale de « 02 Biens » immobiliers, de type « Commerce », sis Boulevard Moulay Idriss I, Arrondissement Maârif, Casablanca - Maroc, objet du T.F N°2.416/71 & N° 2.417/71.;1;7000.00;0.20;327;NULL;NULL;NULL
+328;Expertise d'un etat d'avanceent du projet objet du TF N°4.158/53 sis sidi Rehal;12;1000.00;0.20;328;NULL;NULL;NULL
+329;Expertise immobilière d'un terrain ayant le TF N° 14383/C de Superficie 2.052m² sis Sidi Moumen.;1;3500.00;0.20;329;NULL;NULL;NULL
+330;Evaluation Immobilière d’un projet de type Lotissement Industrielle , à Ain El Aouda - Maroc, objet de TF N°24.081/R.;1;9500.00;0.20;330;NULL;NULL;NULL
+331;Experise Immobilière de la valeur vénale d’un actif immobilier, de type « Immeuble », sis Angle Rue du Prince Moulay Abdellah & Avenue Mers Sultan, Quartier de la Liberté, Préfecture d’Anfa, Casablanca- Maroc, objet de TF N°1.153/C.;1;5000.00;0.20;331;NULL;NULL;NULL
+332;Expertise Immobilière de l’estimation de la valeur vénale d’un « Bien » immobilier, de type « Immeuble », sis Lotissement « SOUKAINA », Lot N°36, Zone Industrielle Sidi Maarouf, Casablanca Maroc, objet du T.F N°16.031/63.;1;5500.00;0.20;332;NULL;NULL;NULL
+333;Expertise Immobilière;1;5500.00;0.20;333;NULL;NULL;NULL
+334;Expertise Immobilière d’un « Bien » immobilier, de type « Appartement », sis Résidence « les Collines », Tranche « l’ACACIA », Immeuble 06, 2ème étage, Appartement N°06, Arrondissement Ain Chock, Casablanca - Maroc, objet du T.F N° 90.453/47;1;2500.00;0.20;334;NULL;NULL;NULL
+335;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Groupe Scolaire Privé en SS R+3 », sis Avenue Al Mouquaouama, Lotissement « La Belle Vue », Lot N°12, Marrakech - Maroc, objet du T.F N° 118.282/04. (1ère Avance);1;4000.00;0.20;335;NULL;NULL;NULL
+336;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Groupe Scolaire Privé en SS R+3 », sis Avenue Al Mouquaouama, Lotissement « La Belle Vue », Lot N°12, Marrakech - Maroc, objet du T.F N° 118.282/04. (2ème avance);1;4000.00;0.20;336;NULL;NULL;NULL
+337;Expertise Immobilière de la valeur vénale d’un « Bien » immobilier, de type « Groupe Scolaire Privé en SS R+3 », sis Avenue Al Mouquaouama, Lotissement « La Belle Vue », Lot N°12, Marrakech - Maroc, objet du T.F N° 118.282/04. (3ème avance);1;2333.33;0.20;337;NULL;NULL;NULL
+338;"Evaluation immobilière du projet ayant le T.F N° 96.940/04 sis Marrakech :
+-/ Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.
+";1;8550.00;0.20;338;NULL;NULL;NULL
+339;"Evaluation du Chiffre d'affaires PROJET TAGANA sis Marrakech
+";1;3150.00;0.20;339;NULL;NULL;NULL
+340;Expertise Immobilière d’un « Bien » immobilier, de type « Villa », sis Bd Fes, californie,  Arrondissement Ain Chock, Casablanca - Maroc, objet du T.F N° 64.331/47;1;2916.67;0.20;340;NULL;NULL;NULL
+341;Expertise Immobilière d’un « Bien » immobilier, de type « Appartement », sis 108, Lotissement « ENNAHDA » GH FB3, Appartement N°05, 1er étage, Arrondissement de Sidi Moumen, Préfecture de Sidi Bernoussi, Casablanca – Maroc. Objet du T.F N° 58.421/49.;1;3000.00;0.20;341;NULL;NULL;NULL
+342;Expertise Immobilière d’un « Bien » immobilier, de type « Terrain », sis Préfecture de Ben Msik Médiouna, Commune Mejjattia Ouled Taleb, Casablanca- Maroc. Objet du TF N°161.206/12.;1;6000.00;0.20;342;NULL;NULL;NULL
+343;Expertise d’un projet immobilier de type de villa en villégiature, sis Douar Drabna, Commune de Bouskoura, Casablanca - Maroc. Objet du TF N°262/33.;1;9500.00;0.20;343;NULL;NULL;NULL
+344;Expertise d’un « Bien » immobilier, de type « Villa », sis Résidence « California-Bay », Lot N°32, El Jadida – Maroc. Casablanca – Maroc. Objet du : TF N°116.599/08.;1;3000.00;0.20;344;NULL;NULL;NULL
+345;Expertise d’un « Bien » immobilier, de type « Plateau bureau », sis Mohammed 5 Offices Center, Immeuble « B », Bureau N° 506, 5ème étage, Préfecture d'Aïn Sebaâ-Hay Mohammadi, Casablanca - Maroc, objet du T.F N°77.817/45;1;2500.00;0.20;345;NULL;NULL;NULL
+346;Expertise d’un « Bien » immobilier, de type « Villa », sis Bouskoura Golf City, TR 53, Villa N°125, Bouskoura, Province de Nouaceur, Casablanca – Maroc. Objet du T.F N° 46.560/63.;1;3000.00;0.20;346;NULL;NULL;NULL
+347;Evaluation d’un projet immobilier de type « Immeuble en SS R+5 », sis Route d’El Jadida, Arrondissement Maârif, Casablanca - Maroc. Objet du TF N°31.337/C.;1;9500.00;0.20;347;NULL;NULL;NULL
+348;Evaluation d’un projet immobilier de type « Lotissement », sis Angle Avenue des Palmiers & Route du Barrage, Municipalité Mechouar Es-Said, Marrakech - Maroc. Objet des TF N°152.830/04, 152.831/04, 152.832 & 152.833/04;1;9000.00;0.20;348;NULL;NULL;NULL
+349;Expertise d’un « Bien » immobilier, de type « Immeuble », sis Lotissement « Wifak », Lot N°10, Quartier Oulfa, Arrondissement Hay Hassani, Casablanca- Maroc., objet du T.F N° 66.158/64.;1;3000.00;0.20;349;NULL;NULL;NULL
+350;Expertise d’un «Bien» immobilier, de type « Lot de terrain pour Immeuble », sis Lotissement « Manzah Fedala », Lot N°328, Commune Rurale de Ben Yakhlef, Mohammedia - Maroc. Objet du T.F N° 138.027/26.;1;3000.00;0.20;350;NULL;NULL;NULL
+351;Expertise d’un « Bien » immobilier, de type « Commerce », sis 26, Rue Ibnou Khalikane, Arrondissement Maârif, Quartier Palmier, Casablanca - Maroc, objet du T.F N°27.584/71.;1;3500.00;0.20;351;NULL;NULL;NULL
+352;Expertise d’un « Bien » immobilier, de type « Centre de Bien être », sis Commune de Bouskoura, Province de Nouaceur, Casablanca - Maroc, objet du TF N° 167.428/63.;1;6000.00;0.20;352;NULL;NULL;NULL
+353;Expertise d’un « Bien » immobilier, de type « Terrain », sis Douar Ait Bihi, Commune Rurale Lagfifat, Taroudant - Maroc. Objet du TF N°9.079/S.;1;7425.00;0.20;353;NULL;NULL;NULL
+354;Evaluation d’un projet immobilier de type « Groupement d’habitation en SS R+4 », sis Avenue 6 Novembre, Arrondissement Tabriquet, Salé - Maroc. Objet du TF N°23.058/R.;1;10816.67;0.20;354;NULL;NULL;NULL
+355;Evaluation, d’un projet immobilier, de type « Lotissement », pour le compte de Banque AL YOUSR, sis Rue Malabata, Province de Sidi Ifni, Mirleft - Maroc, objet de TF N°26.379/31.;1;11500.00;0.20;355;NULL;NULL;NULL
+356;Evaluation, d’un projet immobilier, de type « de terrain », pour le compte de Banque AL YOUSR, sis commune de Tassoultante- Marrakech, Maroc, objet de TF N°121.786/04.;1;9000.00;0.20;356;NULL;NULL;NULL
+357;Expertise d’un « Bien » immobilier, de type « Terrain », sis Commune Lahsasna, Douar Ouled M’hamed, Berrechid - Maroc. Objet du TF N°137.611/53;1;3000.00;0.20;357;NULL;NULL;NULL
+358;Evaluation du chiffre d’affaires d’un projet immobilier de type « lots de terrain pour immeuble » ainsi que l’état d’avancement, objet du T.F N° 10.500/19, sis Lotissement « KENZA », Province de Tétouan, ville de Martil - Maroc. ;1;3000.00;0.20;358;NULL;NULL;NULL
+359;Evaluation d’un projet immobilier pour le compte de Bank Al Yousr, de type « Complexe résidentiel », sis Avenue Miramar, Province de Tetouan, Martil - Maroc. Objet du TF N°13.359/19;1;8627.50;0.20;359;NULL;NULL;NULL
+360;Expertise d’un « Bien » immobilier, de type « Plateau Bureau », sis Lotissement « Assakane Al Mounawar », Bureau N°01, 1er étage, Arrondissement Ain Chock, Casablanca – Maroc, objet du T.F N°91.944/47.;1;2500.00;0.20;360;NULL;NULL;NULL

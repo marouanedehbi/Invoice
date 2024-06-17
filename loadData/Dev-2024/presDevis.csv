@@ -1,0 +1,324 @@
+﻿`id` bigint(20) UNSIGNED NOT NULL,;  `description` text NOT NULL,;  `quantity` int(11) NOT NULL,;  `amount` decimal(11,2) NOT NULL,;  `VAT` decimal(8,2) NOT NULL, 0,2;  `estimate_id` bigint(20)  ID de devis;  `created_at` timestamp NULL DEFAULT NULL,;  `updated_at` timestamp NULL DEFAULT NULL,;  `deleted_at` timestamp NULL DEFAULT NULL
+1;"Evaluation immobilière  d'un projet Construction d'un projet en SS + 4 Etages de TF 74,677/78 d’une superficie de 480m², Sis Skhirat
+
+'-/Expertise du Foncier
+'-/Evaluation du Chiffre d'affaires du projet
+'-/Validation du programme d'investissement.";1;7500.00;0.20;1;NULL;NULL;NULL
+2;Evaluation immobilière relatif au terrain ayant le TF N° 123.671/63 d’une superficie de 1.246m², Sis Bouskoura;1;3000.00;0.20;2;NULL;NULL;NULL
+3;Evaluation immobilière relatif aux terrain ayant lex TF N° 124.655/01 et 124.656/01 d’une superficie global de de 1.226m², Sis Médiouna Casablanca;1;3000.00;0.20;3;NULL;NULL;NULL
+4;Animation de formation en BIM 360;4;11000.00;0.20;4;NULL;NULL;NULL
+5;Evaluation immobilière relatif au terrain ayant le TF 99.799/78 d’une superficie de de 1.526m², Sis Skhirat TEMARA;1;3000.00;0.20;5;NULL;NULL;NULL
+6;Evaluation immobilière relatif au terrain ayant le TF N° 74.205/47 d’une superficie de 207m², Sis Casablanca;1;3000.00;0.20;6;NULL;NULL;NULL
+7;"Evaluation immobilière du projet ayant le T.F N° 215.301/04 sis Marrakech 
+
+-/ Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;7;NULL;NULL;NULL
+8;"Evaluation immobilière du projet ayant le T.F N° 79.364/31 de superficie 23.656 m²sis Tiznit 
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;8;NULL;NULL;NULL
+9;"Evaluation immobilière du projet ayant le T.F N° 3.767/34 de superficie 611 m²sis Quartier des Princesses 
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;9;NULL;NULL;NULL
+10;"Evaluation immobilière du projet ayant le T.F N° 68.482/R de superficie 7.040m²sis Témara
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;10;NULL;NULL;NULL
+11;"Evaluation immobilière du projet ayant le T.F N° 78.707/64 de superficie 225m²sis Hay Hassani
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;11;NULL;NULL;NULL
+12;Evaluation immobilière d'un bureau ayant le T.F N° 59.128/01 de superficie 125 m² sis Casablanca ANFA;1;3000.00;0.20;12;NULL;NULL;NULL
+13;"Evaluation immobilière du projet ayant le T.F N° 27.438/10 de superficie 1.073m²sis Beni Mellal
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;13;NULL;NULL;NULL
+14;Evaluation Immobilière d'un local Commercial ayant le T.F N° 36.902/01, de superficie 119 m², sis Casablanca ANFA;1;3000.00;0.20;14;NULL;NULL;NULL
+15;Evaluation immobilière du Foncier ayant le T.F N° 42.527/10 de superficie 9.722m²sis Beni Mellal.;1;3500.00;0.20;15;NULL;NULL;NULL
+16;Evaluation immobilière d'une maison ayant le T.F N° 70.885/C de superficie 80 m²sis HAY MABROUKA RUE 23 N 34 CASABLANCA;1;3000.00;0.20;16;NULL;NULL;NULL
+17;Evaluation immobilière d'un appartement ayant le T.F N° 20.843/61 de superficie 84 m²sis Tanger;1;2500.00;0.20;17;NULL;NULL;NULL
+18;Evaluation immobilière du Foncier ayant le T.F N° 23.606/65 de superficie 401m²sis Commune AGHOUATEM;1;3000.00;0.20;18;NULL;NULL;NULL
+19;"Evaluation immobilière de l'établissement scolaire faisant
+l'objet du TF N° 10.944/32 sis ";1;6500.00;0.20;19;NULL;NULL;NULL
+20;Evaluation d'une villa ayant le TF N° 3954/34 de superficie de 394 m²;1;3000.00;0.20;20;NULL;NULL;NULL
+21;"Evaluation du projet en cours de construction  objet de TF N° 2023/K sis MEKNES EL MENZAH :
+
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.
+-/Etat d'avancement du projet";1;9500.00;0.20;21;NULL;NULL;NULL
+22;"Evaluation du projet en cours de construction  objet de TF : 74030/58 – 74031/58 sis Salé :
+
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.
+-/Etat d'avancement du projet";1;9500.00;0.20;22;NULL;NULL;NULL
+23;"Evaluation du projet en cours de construction  objet de TF 74052/58, sis Salé :
+
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.
+-/Etat d'avancement du projet";1;9500.00;0.20;23;NULL;NULL;NULL
+24;Evaluation immobilière d'un appartement ayant le T.F N° 57.579/64 de superficie 127 m²sis Casablanca;1;2500.00;0.20;24;NULL;NULL;NULL
+25;Evaluation immobilière d'un appartement ayant le T.F N° 67.209/64 de superficie 76 m²sis Casablanca;1;2500.00;0.20;25;NULL;NULL;NULL
+26;Evaluation d'un lot de  d'immeuble en (R+2) ayant le TF N° 73.310/13 de superficie de 108 m²;1;3000.00;0.20;26;NULL;NULL;NULL
+27;"Evaluation du projet   objet de TF 55289/R, sis Ain Aouda :
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.
+-/Etat d'avancement du projet";1;9500.00;0.20;27;NULL;NULL;NULL
+28;Evaluation immobilière portant sur le TF n° 67.403/23 relatif à un projet d’un lotissement et de construction d’un groupement d’habitation des logements sociaux,  sis Safi quartier LJENNANE LAADIR . Route HAD HRARA;1;11500.00;0.20;28;NULL;NULL;NULL
+29;"Evaluation du projet   objet de TF 19.980/10, sis Beni Mellal:
+-/Validation du programme d'investissement.
+-/Validation des coûts d'aménagement";1;6500.00;0.20;29;NULL;NULL;NULL
+30;Evaluation d'un lot de terrain ayant le TF N° 78.972/47 de superficie de 604 m², sis Californie-Casablanca.;1;3000.00;0.20;30;NULL;NULL;NULL
+31;Evaluation d'un lot de terrain ayant le TF N° 101.236/25 de superficie de 200 m², sis AL Mansouria;1;3000.00;0.20;31;NULL;NULL;NULL
+32;"Evaluation Immobilière du Projet ayant le TF N°131.430/04  de superficie de  86.140 m², sis PREFECTURE DE MARRAKECH COMMUNE TASSOULTANT.
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;32;NULL;NULL;NULL
+33;Evaluation immobilière d'un appartement ayant le T.F N° 81.941/30 de superficie 114 m²sis Sidi Kacem;1;2500.00;0.20;33;NULL;NULL;NULL
+34;Evaluation immobilière d'un appartement ayant le T.F N° 57.579/64  de superficie 127 m²sis Casablanca;1;2500.00;0.20;34;NULL;NULL;NULL
+35;Evaluation immobilière d'un appartement ayant le T.F N° 17.560/53 de superficie 124 m²sis Berrechid;1;2500.00;0.20;35;NULL;NULL;NULL
+36;Evaluation d'une villa à Dar Bouazza;1;3000.00;0.20;36;NULL;NULL;NULL
+37;Evaluation d'un lot de terrain ayant le TF N° 44.769/09 de superficie de 1099 m², sis Ait Melloul;1;4500.00;0.20;37;NULL;NULL;NULL
+38;Evaluation d'un lot de terrain ayant le TF N° 52.451/63 de superficie de 500 m², sis Casablanca;1;3000.00;0.20;38;NULL;NULL;NULL
+39;"Evaluation Immobilière du Projet ayant le TF N° 185200/13 de superficie de  400 m², sis Kenitra :
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;39;NULL;NULL;NULL
+40;"Evaluation Immobilière du Projet  BORJ NADOR ayant le TF N° 93.807/23; 9.801/23, 93.803/23, 93.804/23, 93.805/23 et 93.806/23,  sis SAFI :
+
+-/Expertise du Foncier
+-/Validation du programme d'investissement.";1;6000.00;0.20;40;NULL;NULL;NULL
+41;"Evaluation Immobilière du Projet HAY MOHAMMADI   ayant le TF N° 137.469/23, 137.470/23, 137.471/23, 137.472/23 et 137.471/23, sis SAFI :
+
+-/Expertise du Foncier
+-/Validation du programme d'investissement.";1;6000.00;0.20;41;NULL;NULL;NULL
+42;Evaluation d'un état d'avancement d'un projet sis Tanger;1;3500.00;0.20;42;NULL;NULL;NULL
+43;"Evaluation Immobilière du Projet ayant le TF N° 78.713/06 de superficie de  51.746 m², sis ASSILA :
+
+-/Expertise du Foncier
+-/ Etat d'avancement
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;12500.00;0.20;43;NULL;NULL;NULL
+44;"Evaluation Immobilière d’un projet immobilier de type « Immeuble en SS R+4 », sis Route de Mehdia, Kénitra - Maroc. Objet des TF 109.623/13 & 109.625/13.
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;44;NULL;NULL;NULL
+45;Evaluation immobilière d'une maison ayant le T.F N° 9871/20 de superficie 102 m²sis TABRIKET Salé;1;3000.00;0.20;45;NULL;NULL;NULL
+46;Evaluation de 06 lots de terrains (R+3) et (R+4) situés au lotissement AL ANBRA, sis Fes ;6;1000.00;0.20;46;NULL;NULL;NULL
+47;"Evaluation Immobilière d’un projet immobilier de type « Immeuble en SS R+3 », sis OUASIS, Casablanca - Maroc. Objet des TF 100.392/C
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;47;NULL;NULL;NULL
+48;Evaluation immobilière d'une Villa ayant le T.F N° 25.137/25 de superficie 486 m²sis Bouznika-Provaince Ben Slimane;1;2500.00;0.20;48;NULL;NULL;NULL
+49;"Evaluation Immobilière d’un projet immobilier, sis Bouskoura, Casablanca - Maroc. Objet des TF 62,542/63
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;49;NULL;NULL;NULL
+50;Evaluation Immobilière du foncie robjet du TF 1.354/20, sis Sala Al Jadida - Maroc.;1;3500.00;0.20;50;NULL;NULL;NULL
+51;Evaluation d'un lot de terrain ayant le TF N° 137.743/26 de superficie de 100 m², sis Mohammedia;1;3000.00;0.20;51;NULL;NULL;NULL
+52;Evaluation d'un lot de terrain ayant le TF N° 76140/53  de superficie de 7.627 m², sis Commune LAKHYAYTA-Casablanca;1;3500.00;0.20;52;NULL;NULL;NULL
+53;Evaluation d'une villa ayant le TF N°108.470/06 de superficie de 119m², sis Tanger;1;2800.00;0.20;53;NULL;NULL;NULL
+54;"Evaluation Immobilière d’un projet immobilier, sis Tamesslouht - Maroc. Objet de TF 57.834/04 de superficie de 48.789 m²
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9000.00;0.20;54;NULL;NULL;NULL
+55;Evaluation immobilière d'un Bureau ayant le T.F N° 77.842/45 de superficie 53 m²sis Roche Noires-Casablanca;1;2500.00;0.20;55;NULL;NULL;NULL
+56;Evaluation immobilière d'un Terrain ayant le T.F N° 96.869/45 de superficie 45.727 m²sis Marrakech;1;3500.00;0.20;56;NULL;NULL;NULL
+57;Evaluation d'un établissement scolaire ayant le TF N°4.550/C de superficie 1.204m²;1;6000.00;0.20;57;NULL;NULL;NULL
+58;Evaluation de deux commerces ayant les TF N°73.581/01 et 73.580/01 de superficie 145 m² et 172m²;2;2200.00;0.20;58;NULL;NULL;NULL
+59;Evaluation d'une unité ayant le TF N° 71.914/53 de superficie 184.460m² sis Had Soualem - Casablanca;1;6500.00;0.20;59;NULL;NULL;NULL
+60;Evaluation d'un immeuble  ayant le TF N° 11.298/45 de superficie 131m² sis Sidi Moumen - Casablanca;1;4500.00;0.20;60;NULL;NULL;NULL
+61;Evaluation d'une villa ayant le TF N° 66.538/23 de supeficie 119m² sis Souiria;1;3166.67;0.20;61;NULL;NULL;NULL
+62;Evaluation d'un terrain abritant une villa, ayant le TF N° 100.853/04 de superficie 432m² sis Marrakech;1;4500.00;0.20;62;NULL;NULL;NULL
+63;Evaluation d'un magasin ayant le T.F N°152,149/05 de superficie de 985m² sis tanger;1;3500.00;0.20;63;NULL;NULL;NULL
+64;"Evaluation Immobilière d’un projet immobilier de type « Immeuble en SS R+3 », sis , Kénitra - Maroc. Objet du TF N° 13974/13 
+
+-/Expertise du Foncier
+-/Etat D'avancement
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;64;NULL;NULL;NULL
+65;"Expertise immobilière d'un complexe sportif faisant l'objet des T.F N° TF68125/C; TF120567/C et TF126155/C de superficie globale de 5107.50 m², sis quartier LA GIRONDE - Casablanca
+-/Expertise du Foncier
+-/Validation du programme d'investissement.";1;6500.00;0.20;65;NULL;NULL;NULL
+66;Evalaution Immobilière du lot terrain ayant le TF N°54.601/63de superficie 131m²,  sis Nouaceur.;1;3000.00;0.20;66;NULL;NULL;NULL
+67;"Evaluation Immobilière d’un projet immobilier de type « Immeuble en SS R+3 », sis , Casablanca - Maroc. Objet du TF N° 21.416/C de Superficie 511m²
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9000.00;0.20;67;NULL;NULL;NULL
+68;Evaluation Immobilière d’un bien immobilier de type « villa », sis , El Jadida- Maroc. Objet du TF N° 110.277/08 de Superficie 190m²;1;3000.00;0.20;68;NULL;NULL;NULL
+69;Evaluation Immobilière d’un bien immobilier de type « maison », sis , Temara- Maroc. Objet du TF N° 24,659/38 de Superficie 63m²;1;3000.00;0.20;69;NULL;NULL;NULL
+70;"Evaluation Immobilière d’un projet immobilier, sis Berrechid, Casablanca - Maroc. Objet des TF 146.033/53 (197m²); 146.034/53 (203m²);146.036/53(202m²) et 146.035/53 (197m²)
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;8500.00;0.20;70;NULL;NULL;NULL
+71;Evaluation d'un état d'avancement du projet porté par  la Sté Boyout EL MINIAA;1;3500.00;0.20;71;NULL;NULL;NULL
+72;Evalaution Terrain ayant le TF N°16704/D de superficie 11940m² sis commune Ouled Azzouz;1;3500.00;0.20;72;NULL;NULL;NULL
+73;Evalaution Terrain ayant le TF N°128471/63 de superficie 271m² sis commune OULED SALEH NOUACEUR;1;3000.00;0.20;73;NULL;NULL;NULL
+74;Evaluation Terrain ayant TF N° 192/65 de superficie de 3300m² sis Marrakech;1;5000.00;0.20;74;NULL;NULL;NULL
+75;"Evaluation immobilière du projet sis Tiznit 
+
+-/Expertise du Foncier
+-/Evaluation du Chiffre d'affaires du projet
+-/Validation du programme d'investissement.";1;9500.00;0.20;75;NULL;NULL;NULL
+76;Evaluation d'un état d'avancement d'un projet sis Agadir Drarga;1;3500.00;0.20;76;NULL;NULL;NULL
+77;"Evaluation Immobilière du Projet en (R+4) faisant l'objet du  TF N° 19.712/J,  sis SAFI :
+
+-/Expertise du Foncier
+-/Evaluation C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;77;NULL;NULL;NULL
+78;"Evaluation Immobilière du Projet en (R+5) faisant l'objet du  TF N° 31.05/23,  sis SAFI :
+
+-/Expertise du Foncier
+-/Evaluation C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;78;NULL;NULL;NULL
+79;"Evaluation Immobilière d’un projet immobilier , sis , SIDI Othmane Baladiyat Lahraouiyine OULAD MOULOUK . Objet du TF N° 187.098/12 de Superficie 10094m²
+
+-/Expertise du Foncier
+-/Validation du programme d'investissement.";1;6500.00;0.20;79;NULL;NULL;NULL
+80;"Evalaution de 04 Terrains Sis Had Soualem ayant les T.F :
+- N°105.845/53 de superficie 632m² 
+- N° 105.837/53 de superficie 564m²
+- N° 105.862/53 de superficie 876m²
+- N° 105.846/53 de superficie 618m²";1;3500.00;0.20;80;NULL;NULL;NULL
+81;Expertise Immobilière de commerce ayant le TF N°134.408/13 de superfcie global de  : 93 m² RDC et 46 m²de mezzanine sis Kenitra;1;2200.00;0.20;81;NULL;NULL;NULL
+82;Evaluation d'un actif immobilier de type maison ayant le TF N°4089/R de superficie de 182m² sis Rabat Hassane.;1;3000.00;0.20;82;NULL;NULL;NULL
+83;Evaluation Terrain ayant TF N° 12250/85 de superficie de 163m² sis Sidi Hajjaj;1;3000.00;0.20;83;NULL;NULL;NULL
+84;"Evaluation Immobilière d’unTerrain , sis , Zone Industrielle de SAPINO NOUACER . Objet du TF N° 8884/63  de Superficie 14110m²
+-/Expertise du Foncier
+-/Validation du programme d'investissement.";1;6500.00;0.20;84;NULL;NULL;NULL
+85;"Evaluation des commerces ayant  :
+-/ TF N° 1411/ 33de superficie  1.252m² 
+-/TF N°811/T superficie 8.039m² 
+-/TF N° 62.586/C de superficie 1.056m²";3;3500.00;0.20;85;NULL;NULL;NULL
+86;Evaluation d'un actif immobilier de type Duplexe ayant le TF N°231764/06 de superficie de 182m² sis TAGHAZOUTE-AGADIR;1;3000.00;0.20;86;NULL;NULL;NULL
+87;Evaluation Terrain ayant TF N° 125034/53 de superficie de 244m² sis Berrechid;1;3000.00;0.20;87;NULL;NULL;NULL
+88;Evalaution d'un terrain ayant le TF N°18.093/53 sis Berrechid  de superficie de 32.160m²;1;6000.00;0.20;88;NULL;NULL;NULL
+89;"Evaluation Immobilière du Projet en (R+5) faisant l'objet du  TF N° 93.197/47 de superficie 1.155,  sis Casablanca :
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;89;NULL;NULL;NULL
+90;Evaluation Villa ayant TF N° 126.832/C de superficie de 200m² sis Hay Mohammadi;1;3000.00;0.20;90;NULL;NULL;NULL
+91;Evaluation du Terrain ayant  le T.F N° 51.265/53 de superficie de 26.684m² sis Had Soualem;1;5000.00;0.20;91;NULL;NULL;NULL
+92;"Evaluation du projet objet des deux Terrain ayant  le T.F N° 9215/15 et 9216/15 de superficie respectivement de 1ha 10 a et 1ha 5a sis Had Soualem :
+-/ Evaluation du Foncier,
+-/ Validation du programme d'investissement.";1;6500.00;0.20;92;NULL;NULL;NULL
+93;"Evaluation Immobilière du Projet en (R+5) faisant l'objet du  TF N° 73.778/04 de superficie 3ha 18a 65ca,  sis Marrakech :
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;93;NULL;NULL;NULL
+94;Evaluation d'une villa ayant le TF N°105.800/03 de superficie de 1.623m² sis Rabat;1;2200.00;0.20;94;NULL;NULL;NULL
+95;Evaluation immobilière d'une maison ayant le TF N° 15821/K de superficie de 173m² sis Meknes;1;3000.00;0.20;95;NULL;NULL;NULL
+96;Evaluation Immobilière d'un terrain ayant le T.F N° 191.365/63 de superficie 455 m²sis Dar Bouazza Casablanca;1;3000.00;0.20;96;NULL;NULL;NULL
+97;Evaluation Immobilière d'un terrain ayant le T.F N° 121.221/01 de superficie 768 m²sis Quartier sidi Abderrahmane Casablanca;1;3000.00;0.20;97;NULL;NULL;NULL
+98;"Evaluation Immobilière du Projet  porté par la Sté ZADRI INTERNATIONAL sis Martil:
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Etat d'avancement
+-/Validation du programme d'investissement.";1;11500.00;0.20;98;NULL;NULL;NULL
+99;"Action de Formation 
+
+-/ Evaluation immobilière (2J)
+-/ Fondamentaux de Financement Immobilier (1J)";3;3800.00;0.20;99;NULL;NULL;NULL
+100;"Evaluation Immobilière du Projet en (R+4) faisant l'objet du  TF N° 169.904/13 de superficie 267m²,  sis Kenitra :
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;100;NULL;NULL;NULL
+101;Evaluation d'un duplex faisant l'objet du TF N° 53.029/01 de superficie 216m², sis Maarif Casablanca;1;2500.00;0.20;101;NULL;NULL;NULL
+102;Evaluation d'un appartement faisant l'objet du TF N° 179.873/63 de superficie 108m², sis  DAR BOUAZZA, Province de NOUACEUR;1;2500.00;0.20;102;NULL;NULL;NULL
+103;Evaluation d'une villa faisant l'objet du TF N° 40.018/53 de superficie 189m², sis  BERRECHID;1;3000.00;0.20;103;NULL;NULL;NULL
+104;Evalaution du Fond de commerce de la librairie sis, 21 BERD EL BEKRI EL MELLAH MEKNES;1;4000.00;0.20;104;NULL;NULL;NULL
+105;Evaluation d'un terrain faisant l'objet du TF N° 95.539/26 de superficie 518m², sis  Mohammedia;1;3000.00;0.20;105;NULL;NULL;NULL
+106;"Evaluation Immobilière du Projet  porté par la Sté BEL ENDROIT sis Marrakech:
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;106;NULL;NULL;NULL
+107;"Evaluation immobilière d'un terrain faisant l'objet de RTF N° 22.579/C de superficie de 866m², sis Maarif Casablanca:
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;107;NULL;NULL;NULL
+108;"Evaluation Immobilière du Projet faisant l'objet des  TF N° 6523/S et 45.686/09 de superficie de 1Ha1030m² et 1Ha1790m²,  sis Inzegan Ait Melloul :
+
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;108;NULL;NULL;NULL
+109;Evaluation immobilière d'un terrain faisant l'objet de TF N° 191.362/63 de superficie de 438m², sis Dar Bouazza Casablanca;1;3000.00;0.20;109;NULL;NULL;NULL
+110;Evaluation immobilière d'un terrain faisant l'objet de TF N° 106.620/38 de superficie de 84m², sis Temara;1;3000.00;0.20;110;NULL;NULL;NULL
+111;Evaluation immobilière d'une villa  ayant le TF N° 71.574/08 de superficie de 402m² sis EL JADIDA;1;3000.00;0.20;111;NULL;NULL;NULL
+112;Evaluation d'une villa faisant l'objet du TF N° 44.432/31 de superficie 159m², sis  Tiznit;1;3000.00;0.20;112;NULL;NULL;NULL
+113;Evaluation d'un immeuble en (R+3) ayant le TF N°2799/49 sis sidi bernoussi de superficie de 985m².;1;3500.00;0.20;113;NULL;NULL;NULL
+114;"Evaluation Immobilière de terrain ayant le TF N° 258.260/04 de superficie 869m² sis Marrakech
+
+Evaluation Immobilière de terrain ayant le TF N° 261.441/04 de superficie 85m² sis Marrakech";2;3000.00;0.20;114;NULL;NULL;NULL
+115;"Evaluation du projet faisant l'objet du TF N° 6145/31 de superficie 44.763m², sis  Tiznit
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.";1;9500.00;0.20;115;NULL;NULL;NULL
+116;Evaluation immobilière d'un immeuble, faisant l'objet du TF N° 4392/C de superficie de 252m², sis Derb Omar Casablanca;1;2200.00;0.20;116;NULL;NULL;NULL
+117;"Evaluation Immobilière du Projet faisant l'objet des  TF N° 7309/C de superficie de 44.010m²sis Casablanca :
+
+-/La validation de la finalisation des travaux de lotissement sur le projet (BABIL AMENAGEMENT), 
+-/Le montant investi par le client, 
+-/Une explication par rapport  aux dépenses supplémentaires sur le PI telles que l’impôt de la TPI, la construction d’un bassin de retenue d’eau pluviale et une station de relevage…";1;9000.00;0.20;117;NULL;NULL;NULL
+118;"Evaluation du projet faisant l'objet du TF N° 31337/C de superficie 205m², sis  Oasis Casablanca
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+-/Etat d'Avancement";1;9500.00;0.20;118;NULL;NULL;NULL
+119;Evaluation d'un appartement faisant l'objet du TF N° 79.764/64 de superficie 215m², sis  DAR BOUAZZA, Province de NOUACEUR;1;2500.00;0.20;119;NULL;NULL;NULL
+120;"Evaluation  du Projet ayant  le T.F 29.819/F de superficie 5.522m² sis Fes :
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+-/Etat d'avancement
+";1;12000.00;0.20;120;NULL;NULL;NULL
+121;"Evaluation du Projet ayant  le T.F N° 8.216/41  de superficie 1.751m² sis BHALILI -Sefrou:
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+-/Etat d'avancement";1;12000.00;0.20;121;NULL;NULL;NULL
+122;"Evaluation  du Projet ayant  le T.F N° 8.216/41  de superficie 750m² sis Imouzzar Kandar
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+-/Etat d'avancement";1;12000.00;0.20;122;NULL;NULL;NULL
+123;"-/Evaluation d'une unité industrielle, ayant le TF N° 31.119/25 de superficie de 599m², sis Zone Industrielle de Benslimane
+
+-/Evaluation des équipements, ";1;8500.00;0.20;123;NULL;NULL;NULL
+124;Evaluation d'une terrain agricole ayant le T.F N° 97.391/02 de superficie 21.870 m², sis Oujda;1;5000.00;0.20;124;NULL;NULL;NULL
+125;Evaluation d'une terrain agricole ayant le T.F N° 7.455/40 de superficie 188 m², sis Berkane;1;3500.00;0.20;125;NULL;NULL;NULL
+126;Evaluation d'une maison ayant de TF N° 25.987 de superificie 87m² sis youssoufia;1;3000.00;0.20;126;NULL;NULL;NULL
+127;Evalaution maison ayant le TF N°17.899  de superficei de 72 m² sisTAMANSOURTE TRANCHE 01 LOT V-63.;1;3000.00;0.20;127;NULL;NULL;NULL
+128;"Evaluation du projet:
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+";1;9500.00;0.20;128;NULL;NULL;NULL
+129;"Evaluation du projet faisant l'objet du TF N° 40500/53 de superficie 12088m², sis  COMMUNE SAHEL OULED HRIZ PROVINCE DE BERRECHID
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+";1;9500.00;0.20;129;NULL;NULL;NULL
+130;"Evaluation  du Projet ayant  le T.F N° 226.488/07 de superficie  de 1.744m² sis Fes :
+-/Expertise du Foncier
+-/Validation du C.A
+-/Validation du programme d'investissement.
+-/Etat d'avancement
+";1;12000.00;0.20;130;NULL;NULL;NULL

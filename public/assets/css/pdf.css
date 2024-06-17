@@ -1,0 +1,144 @@
+h4 {
+    margin: 0;
+}
+.w-full {
+    width: 100%;
+    margin-bottom:1px;
+}
+.w-half {
+    width: 50%;
+}
+.margin-top {
+    margin-top: 1rem;
+}
+.margin-top-lib {
+    margin-top: 5.99rem;
+}
+.footer {
+    font-size: 0.875rem;
+    padding: 1rem;
+    background-color: rgb(241 245 249);
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+table. td{
+    font-family: Calibri;
+    font-size: 12px;
+    vertical-align: top;
+}
+table.products {
+    font-size: 0.775rem;
+    page-break-inside: auto;
+}
+table.products tr {
+    background-color: rgb(50,50,50); /*  #000000	rgb(0,0,0);*/
+
+}
+table.products th {
+    color: #FFFFFF;
+    padding: 0.5rem;
+   /* border: 0.1px solid #000000;*/
+    border-width: 1px;
+    border-style: solid;
+    border-color : #000000;
+    font-family: Calibri;
+    font-size: 12px;
+}
+table tr.items {
+    background-color:  	rgb(255,255,255);
+}
+table tr.items td {
+    padding: 0.5rem;
+   /* border: 0.0000025em solid #000000;*/
+    border-width: 1px;
+    border-style: solid;
+    border-color : #000000;
+    font-family: Calibri;
+    font-size: 12px;
+}
+.total {
+    text-align: right;
+    margin-top: 0.10rem;
+    font-size: 0.775rem;
+    text-decoration:underline;
+    font-family: Calibri;
+    font-weight: bold;
+}
+
+@page {
+    margin: 100px 25px;
+}
+body {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.bodyNologo {
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+header {
+    position: fixed;
+    top: -70px;
+    left: 0px;
+    right: 0px;
+    height: 10px;
+    font-size: 20px !important;
+    color: black;
+    text-align: right;
+    line-height: 15px;
+}
+footer {
+    position: fixed;
+    bottom: -60px;
+    left: 0px;
+    right: 0px;
+    height: 99px;
+    font-size: 20px !important;
+    color: black;
+    text-align: center;
+    line-height: 35px;
+}
+
+
+.title2{
+    font-family: Calibri;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.title1{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+}
+.text{
+    font-weight: 80;
+    font-family: Calibri;
+}
+table.products td pre{
+    margin-bottom:1px;
+    font-family: Calibri;
+    font-size: 12px;
+    vertical-align: middle;
+    white-space: pre-wrap;
+}
+table.products td{
+    font-family: Calibri;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+
+.containerFoot img {
+   /* opacity: 0.8;*/
+}
+
+.lib {
+    margin-top: 0.30rem;
+    font-size: 0.775rem;
+    text-decoration:underline;
+    font-family: Calibri;
+}
