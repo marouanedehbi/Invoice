@@ -210,7 +210,7 @@
             </td>
             <td style = "width: 40%">
                 @if ($estimate->societe_id == 1)
-                    <img src="{{ public_path("assets/img/pdf/CachetAby.png") }}"  alt="Aby Finance" style="float:right;margin-top:-15px">
+                    <img src="{{ public_path("assets/img/pdf/CachetAbyEstimate.jpg") }}"  alt="Aby Finance" style="float:right;margin-top:-15px">
                 @elseif ($estimate->societe_id == 2)
                     <img src="{{ public_path("assets/img/pdf/CachetSagi.jpg") }}"  alt="Aby Finance" style="float:right;margin-top:-20px;">
                 @endif

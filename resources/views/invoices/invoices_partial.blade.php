@@ -126,6 +126,7 @@
                                 <th class="border-bottom-0" style = "vertical-align:middle">Type de mission</th>
                                 <th class="border-bottom-0" style = "vertical-align:middle">Client</th>
                                 <th class="border-bottom-0" style = "vertical-align:middle">Montant HT</th>
+                                <th class="border-bottom-0" style = "vertical-align:middle">Montant TVA</th>
                                 <th class="border-bottom-0" style = "vertical-align:middle">Montant TTC</th>
                                 <th class="border-bottom-0" style = "vertical-align:middle">Montant TTC 2</th>
                                 <th class="border-bottom-0">
@@ -157,6 +158,7 @@
                                     <td>{{ $invoice->missionType->mission_type_name }}</td>
                                     <td>{{ $invoice->client_name }}</td>
                                     <td>{{ $invoice->totalHT }}</td>
+                                    <td>{{ $invoice->montantTVA }}</td>
                                     <td>{{ $invoice->totalTTC }}</td>
                                     <td>{{ $invoice->totalTTC2 }}</td>
                                     <td>
@@ -208,6 +210,17 @@
                                 </tr>
                             @endforeach
                             </tbody>
+                            <tfoot>
+                            <tr>
+                                <th class="border-bottom-0" colspan="7" style = "vertical-align:middle; text-align:right">Total</th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle"></th>
+                            </tr>
+                            </tfoot>
                         </table>
                     </div>
                 </div>

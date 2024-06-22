@@ -188,19 +188,24 @@
                                                     <a class="dropdown-item" href="print_estimate/{{ $estimate->id }}"><i
                                                             class="text-success fas fa-print"></i>&nbsp;&nbsp;
                                                         Imprimer la devis
-
-
                                                     </a>
                                             </div>
                                         </div>
-
                                     </td>
-
-
-
                                 </tr>
                             @endforeach
                             </tbody>
+                            <tfoot>
+                            <tr>
+                                <th class="border-bottom-0" colspan="7" style = "vertical-align:middle; text-align:right">Total</th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle; color:red;  white-space: nowrap;"></th>
+                                <th class="border-bottom-0" style = "vertical-align:middle"></th>
+                            </tr>
+
+                            </tfoot>
                         </table>
                     </div>
                 </div>
